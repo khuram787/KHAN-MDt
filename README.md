@@ -93,17 +93,10 @@
 
  <div align="center">
 
-### 🔥 SHORT SESSION ID
-<p align="center">
-  <a href="https://khanmd-xpair.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
-  </a>
-</p>
-
-### 🌊 LONG SESSION ID
+### 🌊 GET SESSION ID
 <p align="center">
   <a href="https://khanmd-pair.onrender.com/">
-    <img src="https://img.shields.io/badge/💫_PAIR_GENRATER_2-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
+    <img src="https://img.shields.io/badge/💫_PAIR_CODE_GENRATER-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>
 
