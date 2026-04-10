@@ -1,7 +1,7 @@
 {
   "name": "KHAN-MD",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
+  "logo": "https://files.catbox.moe/6zd0ru.jpg",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
   "stack": "container",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/6zd0ru.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
