@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
 <div style="
@@ -109,6 +109,16 @@
 <p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
+
+### 🔥 TRY JAWAD MD MINI
+<!-- Cyber Red -->
+<p align="center">
+  <a href="https://jawadtechx.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
+  </a>
+</p>
+
+<div align="center">
   <table>
     <tr>
       <!-- Heroku (with rocket logo on left) -->
@@ -142,7 +152,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://jawadtechx.vercel.app" target="_blank">
+      <a href="https://khanmd-vps.vercel.app" target="_blank">
         <img alt="VPS Deploy" src="https://img.shields.io/badge/VPS_DEPLOY-Free_Unlimited-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
